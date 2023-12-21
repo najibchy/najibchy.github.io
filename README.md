@@ -19,11 +19,11 @@ _Italic_
 list
 unordered
 + knknflks
-  -dnodjnf
-    *sfnsln
-    +slknflk
-    -lmnsdfn
-+knsflkns
+  - dnodjnf
+    * sfnsln
+    + slknflk
+    - lmnsdfn
++ knsflkns
 
 ordered
 1. klfnflw
@@ -40,7 +40,8 @@ indented code
   wfnoi
 
 blocked code
-``` js
+```
+js
 lsndlfn
 sdnfllns
 ```
@@ -54,14 +55,14 @@ tables
 
 | options | descriptions |
 | -------: | ------------: |
-| lfnwjeb | wfbwbfkjkjbwf|
-| jdgjjgk | fjksfbkjsbkjb|
+| lfnwjebwekjbfiuwebfkj | wfbwbfkwfknwefblwenfjkjbwf|
+| jdgjjgwe;fjhuwefkwenk | fjksfbkjsbkfwlkehfuwhfjwnjb|
 
 | options | descriptions |
 | :------- | :------------ |
-| lfnwjeb | wfbwbfkjkjbwf|
-| jdgjjgk | fjksfbkjsbkjb|
+| lfnwjebsjndfjkbs | wfbwbfkjkjbwflkfwjbfbf|
+| jdgjjgkfwjehfuwbufwuef | fjksfbkjsbkjbewfobwobf|
 
-[Link text]{https://najibchy.github.io/}
-[Link with title]{https://najibchy.github.io/ "Najib"}
-![Image]{https://pngimg.com/image/36245}
+[link text]{https://najibchy.github.io/}
+[link with title]{https://najibchy.github.io/ "Najib"}
+![image]{https://pngimg.com/image/36245}
