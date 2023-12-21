@@ -34,7 +34,7 @@ code
 inline `code`
 
 indented code
-  //comments
+  // comments
   ldnf
   fonwo
   wfnoi
