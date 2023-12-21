@@ -63,6 +63,6 @@ tables
 | lfnwjebsjndfjkbs | wfbwbfkjkjbwflkfwjbfbf|
 | jdgjjgkfwjehfuwbufwuef | fjksfbkjsbkjbewfobwobf|
 
-[link text](https://najibchy.github.io/)
-[link with title](https://najibchy.github.io/ "Najib")
-![image](https://pngimg.com/image/36245)
+[najib](https://najibchy.github.io/)
+[najib](https://najibchy.github.io/ "Najib")
+![najib](https://pngimg.com/image/36245)
