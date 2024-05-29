@@ -2,5 +2,18 @@ title: Najib Chowdhury
 #logo: 
 #description:
 #show_downloads: true
-theme: jekyll-theme-minimal
 base: "https://najibchy.github.io"
+
+theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-feed
+
+navigation:
+  - title: "Home"
+    url: "/'
+  - title: "About"
+    url: "/about/"
+  - title: "Contact"
+    url: "/contact/"
+  
