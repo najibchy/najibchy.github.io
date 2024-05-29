@@ -4,6 +4,5 @@ title: Contact
 permalink: /contact/
 ---
 
-# Contact Us
-
-This is the contact page.
+[LinkedIn](https://www.linkedin.com/in/najib-chowdhury/)
+[Github](https://github.com/najibchy)
