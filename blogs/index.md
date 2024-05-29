@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-permalink: /about/
+permalink: /blog/
 ---
 
 - [Understanding Intelligence](./understanding_intelligence/)
