@@ -11,7 +11,7 @@ plugins:
 
 navigation:
   - title: "Home"
-    url: "/'
+    url: "/"
   - title: "About"
     url: "/about/"
   - title: "Contact"
