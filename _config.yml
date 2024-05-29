@@ -4,7 +4,7 @@ title: Najib Chowdhury
 #show_downloads: true
 base: "https://najibchy.github.io"
 
-theme: minimal
+theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-feed
