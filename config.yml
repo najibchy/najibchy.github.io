@@ -1,5 +1,5 @@
-baseURL: "https://ailzhang.vercel.app"
-title: AZone
+baseURL: "https://najichy.vercel.app"
+title: Najib
 paginate: 5
 theme: PaperMod
 
@@ -50,7 +50,7 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: ailzhang 的猫抓板
+    title: najibchy
     subtitle: "You'll never be younger than you are today"
     imageUrl: "https://raw.githubusercontent.com/ailzhang/ailzhang.github.io/master/static/avatar.png"
     imageWidth: 120
@@ -67,9 +67,9 @@ params:
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/ailzhang"
+      url: "https://twitter.com/NajibChy"
     - name: github
-      url: "https://github.com/ailzhang"
+      url: "https://github.com/najibchy"
 
   analytics:
     google:
