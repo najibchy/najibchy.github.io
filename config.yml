@@ -16,7 +16,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: AZone
+  title: Najib
   description: "A coder, snowboarder and lifelong learner"
   keywords: [Blog, Portfolio, PaperMod]
   author: NC
