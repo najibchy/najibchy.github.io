@@ -19,7 +19,7 @@ params:
   title: AZone
   description: "A coder, snowboarder and lifelong learner"
   keywords: [Blog, Portfolio, PaperMod]
-  author: AZ
+  author: NC
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -52,7 +52,7 @@ params:
     enabled: true # needs to be explicitly set
     title: najibchy
     subtitle: "You'll never be younger than you are today"
-    imageUrl: "https://raw.githubusercontent.com/ailzhang/ailzhang.github.io/master/static/avatar.png"
+    imageUrl: "https://raw.githubusercontent.com/najibchy/najibchy.github.io/master/static"
     imageWidth: 120
     imageHeight: 120
     imageTitle: avatar
