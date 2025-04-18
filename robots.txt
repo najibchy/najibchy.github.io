@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://najichy.vercel.app/sitemap.xml
