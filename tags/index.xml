@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Najib</title>
-    <link>https://najichy.vercel.app/tags/</link>
+    <link>https://najibchy.github.io/tags/</link>
     <description>Recent content in Tags on Najib</description>
     <image>
       <title>Najib</title>
-      <url>https://najichy.vercel.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://najichy.vercel.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://najibchy.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://najibchy.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.125.7</generator>
     <language>en</language>
     <lastBuildDate>Fri, 18 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://najichy.vercel.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://najibchy.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nodejs</title>
-      <link>https://najichy.vercel.app/tags/nodejs/</link>
+      <link>https://najibchy.github.io/tags/nodejs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://najichy.vercel.app/tags/nodejs/</guid>
+      <guid>https://najibchy.github.io/tags/nodejs/</guid>
       <description></description>
     </item>
     <item>
       <title>React</title>
-      <link>https://najichy.vercel.app/tags/react/</link>
+      <link>https://najibchy.github.io/tags/react/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://najichy.vercel.app/tags/react/</guid>
+      <guid>https://najibchy.github.io/tags/react/</guid>
       <description></description>
     </item>
     <item>
       <title>Web Development</title>
-      <link>https://najichy.vercel.app/tags/web-development/</link>
+      <link>https://najibchy.github.io/tags/web-development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://najichy.vercel.app/tags/web-development/</guid>
+      <guid>https://najibchy.github.io/tags/web-development/</guid>
       <description></description>
     </item>
     <item>
       <title>Reading Notes</title>
-      <link>https://najichy.vercel.app/tags/reading-notes/</link>
+      <link>https://najibchy.github.io/tags/reading-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://najichy.vercel.app/tags/reading-notes/</guid>
+      <guid>https://najibchy.github.io/tags/reading-notes/</guid>
       <description></description>
     </item>
   </channel>

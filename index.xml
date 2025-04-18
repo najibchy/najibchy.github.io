@@ -2,39 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Najib</title>
-    <link>https://najichy.vercel.app/</link>
+    <link>https://najibchy.github.io/</link>
     <description>Recent content on Najib</description>
     <image>
       <title>Najib</title>
-      <url>https://najichy.vercel.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://najichy.vercel.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://najibchy.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://najibchy.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.125.7</generator>
     <language>en</language>
     <lastBuildDate>Fri, 18 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://najichy.vercel.app/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://najibchy.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sample Project</title>
-      <link>https://najichy.vercel.app/projects/sample-project/</link>
+      <link>https://najibchy.github.io/projects/sample-project/</link>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://najichy.vercel.app/projects/sample-project/</guid>
+      <guid>https://najibchy.github.io/projects/sample-project/</guid>
       <description>A sample project to demonstrate the structure of project posts</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>https://najichy.vercel.app/about/</link>
+      <link>https://najibchy.github.io/about/</link>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://najichy.vercel.app/about/</guid>
-      <description>Professional Introduction Hello! I&amp;rsquo;m [Your Name], a [Your Profession/Title] passionate about [areas of interest or specialization]. I have [X years] of experience in [relevant industry/field], where I&amp;rsquo;ve focused on [specific areas of expertise].
-I believe in [your professional philosophy or approach to work]. My work is driven by [your motivations, e.g., solving complex problems, creating user-friendly experiences, etc.].
-Education [Degree Name] in [Field of Study]
-[University/Institution Name], [Year of Graduation]</description>
+      <guid>https://najibchy.github.io/about/</guid>
+      <description>Professional Introduction Hello! I&amp;rsquo;m Najib Chowdhury, currently an undergraduate student.
+Education [Bachelor of Science] in [Mechatronics Engineering]
+[Rajshahi University of Engineering &amp;amp; Technology], [2023 - Present] </description>
     </item>
     <item>
       <title>Godel Escher Bach Reading Notes</title>
-      <link>https://najichy.vercel.app/posts/godel-escher-bach-notes/</link>
+      <link>https://najibchy.github.io/posts/godel-escher-bach-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://najichy.vercel.app/posts/godel-escher-bach-notes/</guid>
+      <guid>https://najibchy.github.io/posts/godel-escher-bach-notes/</guid>
       <description></description>
     </item>
   </channel>
