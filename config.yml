@@ -51,25 +51,31 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: najibchy
-    subtitle: "You'll never be younger than you are today"
+    subtitle: "Software Developer & Tech Enthusiast"
     imageUrl: "https://raw.githubusercontent.com/najibchy/najibchy.github.io/master/static"
     imageWidth: 120
     imageHeight: 120
     imageTitle: avatar
     buttons:
+      - name: Projects
+        url: projects
       - name: Posts
         url: posts
-
+      - name: About
+        url: about
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
     Content: Welcome to my blog
-
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/NajibChy"
     - name: github
       url: "https://github.com/najibchy"
+    - name: twitter
+      url: "https://twitter.com/NajibChy"
+    - name: linkedin
+      url: "https://linkedin.com/in/yourusername"
+    - name: email
+      url: "mailto:najibchowdhury980@gmail.com"
 
   analytics:
     google:
