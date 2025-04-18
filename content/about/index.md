@@ -11,16 +11,14 @@ disableHLJS: true
 
 ## Professional Introduction
 
-Hello! I'm [Your Name], a [Your Profession/Title] passionate about [areas of interest or specialization]. I have [X years] of experience in [relevant industry/field], where I've focused on [specific areas of expertise].
-
-I believe in [your professional philosophy or approach to work]. My work is driven by [your motivations, e.g., solving complex problems, creating user-friendly experiences, etc.].
+Hello! I'm Najib Chowdhury, currently an undergraduate student.
 
 ## Education
 
-- **[Degree Name]** in [Field of Study]  
-  [University/Institution Name], [Year of Graduation]
+- **[Bachelor of Science]** in [Mechatronics Engineering]  
+  [Rajshahi University of Engineering & Technology], [2023 - Present]
   
-- **[Additional Degree/Certification]** (if applicable)  
+<!-- - **[Additional Degree/Certification]** (if applicable)  
   [Institution], [Year]
 
 ## Professional Experience
@@ -37,9 +35,9 @@ I believe in [your professional philosophy or approach to work]. My work is driv
 
 - [Key responsibility or achievement]
 - [Another responsibility or achievement]
-- [Another responsibility or achievement]
+- [Another responsibility or achievement] -->
 
-## Skills
+<!-- ## Skills
 
 ### Technical Skills
 
@@ -88,4 +86,4 @@ Outside of my professional life, I enjoy:
 - **Twitter**: [@yourhandle]
 - **Personal Website**: [yourwebsite.com] (if different from current site)
 
-I'm always open to interesting conversations and opportunities. Feel free to reach out!
+I'm always open to interesting conversations and opportunities. Feel free to reach out! -->

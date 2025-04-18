@@ -7,7 +7,7 @@ showToc: false
 hidemeta: true
 ---
 
-# Portfolio of Projects
+<!-- # Portfolio of Projects
 
 Welcome to my project portfolio! Here you'll find a collection of my work, including personal projects, professional contributions, and open-source collaborations. Each project entry provides details about the technologies used, my role, and the problems solved.
 
@@ -42,4 +42,4 @@ Browse through my projects to get a sense of my technical abilities, problem-sol
 - Results and lessons learned
 - Links to live demos or repositories (when available)
 
-Feel free to explore and reach out if you have questions about any specific project or would like to discuss potential collaborations!
+Feel free to explore and reach out if you have questions about any specific project or would like to discuss potential collaborations! -->
