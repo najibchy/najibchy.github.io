@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Najib< Chowdhury/title>
-    <link>https://najibchy.github.io/</link>
+    <title>Najib</title>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Najib</description>
-    <image>
-      <title>Najib</title>
-      <url>https://najibchy.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://najibchy.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- 0.129.0</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 18 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://najibchy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sample Project</title>
-      <link>https://najibchy.github.io/projects/sample-project/</link>
+      <link>http://localhost:1313/projects/sample-project/</link>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://najibchy.github.io/projects/sample-project/</guid>
-      <description>A sample project to demonstrate the structure of project posts</description>
+      <guid>http://localhost:1313/projects/sample-project/</guid>
+      <description>Project Overview This is a sample project to demonstrate how project entries can be structured on your portfolio. In a real project entry, you would provide an overview of what the project is about, its purpose, and the problem it solves.&#xA;Technologies Used Frontend: React, Redux, Material UI Backend: Node.js, Express Database: MongoDB Deployment: AWS, Docker Other Tools: Git, GitHub Actions Features Feature 1: Description of what this feature does and how it benefits users Feature 2: Description of what this feature does and how it benefits users Feature 3: Description of what this feature does and how it benefits users My Role Describe your role in the project.</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>https://najibchy.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://najibchy.github.io/about/</guid>
-      <description>Professional Introduction Hello! I&amp;rsquo;m Najib Chowdhury, currently an undergraduate student.
-Education [Bachelor of Science] in [Mechatronics Engineering]
-[Rajshahi University of Engineering &amp;amp; Technology], [2023 - Present] </description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Professional Introduction Hello! I&amp;rsquo;m Najib Chowdhury, currently an undergraduate student.&#xA;Education [Bachelor of Science] in [Mechatronics Engineering]&#xA;[Rajshahi University of Engineering &amp;amp; Technology], [2023 - Present] </description>
     </item>
     <item>
-      <title>Godel Escher Bach Reading Notes</title>
-      <link>https://najibchy.github.io/posts/godel-escher-bach-notes/</link>
+      <title>Archive</title>
+      <link>http://localhost:1313/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://najibchy.github.io/posts/godel-escher-bach-notes/</guid>
+      <guid>http://localhost:1313/archives/</guid>
+      <description>archives</description>
+    </item>
+    <item>
+      <title>Search</title>
+      <link>http://localhost:1313/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/search/</guid>
       <description></description>
     </item>
   </channel>
