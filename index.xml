@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- 0.125.7</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://najibchy.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sample Project</title>
@@ -21,6 +21,13 @@
       <description>A sample project to demonstrate the structure of project posts</description>
     </item>
     <item>
+      <title>Godel Escher Bach Reading Notes</title>
+      <link>https://najibchy.github.io/posts/godel-escher-bach-notes/</link>
+      <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://najibchy.github.io/posts/godel-escher-bach-notes/</guid>
+      <description>Notes and thoughts on Godel, Escher, Bach.</description>
+    </item>
+    <item>
       <title>About Me</title>
       <link>https://najibchy.github.io/about/</link>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
@@ -28,13 +35,6 @@
       <description>Professional Introduction Hello! I&amp;rsquo;m Najib Chowdhury, currently an undergraduate student.
 Education [Bachelor of Science] in [Mechatronics Engineering]
 [Rajshahi University of Engineering &amp;amp; Technology], [2023 - Present] </description>
-    </item>
-    <item>
-      <title>Godel Escher Bach Reading Notes</title>
-      <link>https://najibchy.github.io/posts/godel-escher-bach-notes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://najibchy.github.io/posts/godel-escher-bach-notes/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>

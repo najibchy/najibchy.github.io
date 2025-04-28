@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.125.7</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://najibchy.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reading Notes</title>
+      <link>https://najibchy.github.io/tags/reading-notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://najibchy.github.io/tags/reading-notes/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Nodejs</title>
       <link>https://najibchy.github.io/tags/nodejs/</link>
@@ -32,13 +39,6 @@
       <link>https://najibchy.github.io/tags/web-development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://najibchy.github.io/tags/web-development/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Reading Notes</title>
-      <link>https://najibchy.github.io/tags/reading-notes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://najibchy.github.io/tags/reading-notes/</guid>
       <description></description>
     </item>
   </channel>
